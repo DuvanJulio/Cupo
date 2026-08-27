@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Cupo.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9331ac70884d5bd498a71ba1ab840afd64fd5250")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+90a7372a0dd41b768f185c98060b0b9a06111266")]
 [assembly: System.Reflection.AssemblyProductAttribute("Cupo.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Cupo.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

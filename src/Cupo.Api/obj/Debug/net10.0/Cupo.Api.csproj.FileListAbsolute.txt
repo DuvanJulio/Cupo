@@ -121,3 +121,14 @@
 /home/duvan/Documentos/Projects/Cupo/src/Cupo.Api/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
 /home/duvan/Documentos/Projects/Cupo/src/Cupo.Api/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
 /home/duvan/Documentos/Projects/Cupo/src/Cupo.Api/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/duvan/Documentos/Projects/Cupo/src/Cupo.Api/obj/Debug/net10.0/Cupo.Api.sourcelink.json
+/home/duvan/Documentos/Projects/Cupo/src/Cupo.Api/bin/Debug/net10.0/BCrypt-Net-Next.dll
+/home/duvan/Documentos/Projects/Cupo/src/Cupo.Api/bin/Debug/net10.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/home/duvan/Documentos/Projects/Cupo/src/Cupo.Api/bin/Debug/net10.0/Microsoft.Bcl.Cryptography.dll
+/home/duvan/Documentos/Projects/Cupo/src/Cupo.Api/bin/Debug/net10.0/Microsoft.IdentityModel.Abstractions.dll
+/home/duvan/Documentos/Projects/Cupo/src/Cupo.Api/bin/Debug/net10.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/duvan/Documentos/Projects/Cupo/src/Cupo.Api/bin/Debug/net10.0/Microsoft.IdentityModel.Logging.dll
+/home/duvan/Documentos/Projects/Cupo/src/Cupo.Api/bin/Debug/net10.0/Microsoft.IdentityModel.Protocols.dll
+/home/duvan/Documentos/Projects/Cupo/src/Cupo.Api/bin/Debug/net10.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/duvan/Documentos/Projects/Cupo/src/Cupo.Api/bin/Debug/net10.0/Microsoft.IdentityModel.Tokens.dll
+/home/duvan/Documentos/Projects/Cupo/src/Cupo.Api/bin/Debug/net10.0/System.IdentityModel.Tokens.Jwt.dll
