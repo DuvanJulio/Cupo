@@ -2,8 +2,30 @@
 .vscodecsdt/Runners/
 
 # Build output
+# Build output
 **/bin/
 **/obj/
 
 # Visual Studio
 .vs/
+
+# VS Code
+.vscode/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.rsuser
+
+# Rider / JetBrains
+.idea/
+
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/
+
+# OS
+.DS_Store
+Thumbs.db
