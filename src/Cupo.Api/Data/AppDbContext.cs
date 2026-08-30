@@ -11,6 +11,8 @@ public class AppDbContext : DbContext
 
     public DbSet<Event> Events => Set<Event>();
 
+    public DbSet<Hold> Holds => Set<Hold>();
+
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
         modelBuilder.Entity<User>(e =>
@@ -28,6 +30,15 @@ public class AppDbContext : DbContext
             e.Property(x => x.Capacity).IsRequired();
             e.Property(x => x.HeldCount).HasDefaultValue(0);
             e.Property(x => x.ConfirmedCount).HasDefaultValue(0);
+        });
+
+        modelBuilder.Entity<Hold>(e =>
+        {
+            e.HasKey(x => x.Id);
+            e.Property(x => x.Status).HasConversion<string>().HasMaxLength(32);
+            e.Property(x => x.Quantity).IsRequired();
+            e.HasIndex(x => x.EventId);
+            e.HasIndex(x => x.UserId);
         });
     }
 }
